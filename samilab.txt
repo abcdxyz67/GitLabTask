@@ -1,1 +1,3 @@
 git add push labtask of sami
+
+File name corrected successfully
